@@ -12,7 +12,7 @@ public:
 	virtual string getName() = 0;
 	virtual double getPrice() = 0;
 };
-
+//16.07.2019
 //test
 //Added text.
 //Added textTwo.
