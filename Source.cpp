@@ -13,8 +13,10 @@ public:
 	virtual double getPrice() = 0;
 };
 
+//test
 //Added text.
 //Added textTwo.
+// new test string
 class Pizza: public Food
 {
 	
