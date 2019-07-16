@@ -13,6 +13,8 @@ public:
 	virtual double getPrice() = 0;
 };
 
+//Added text.
+
 class Pizza: public Food
 {
 	
